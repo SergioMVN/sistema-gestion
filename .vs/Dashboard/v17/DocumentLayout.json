@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\sergi\\onedrive\\escritorio\\sistema-gestion\\sistema-gestion\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D55102-6C6A-46CD-9B57-FD00179D99AC}|CapaDatos\\CapaDatos.csproj|c:\\users\\sergi\\onedrive\\escritorio\\sistema-gestion\\sistema-gestion\\capadatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D55102-6C6A-46CD-9B57-FD00179D99AC}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\sergi\\onedrive\\escritorio\\sistema-gestion\\sistema-gestion\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -29,57 +17,18 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConexionBD.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaDatos\\ConexionBD.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\ConexionBD.cs",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaDatos\\ConexionBD.cs",
-              "RelativeToolTip": "CapaDatos\\ConexionBD.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T05:20:00.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Web.config",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Web.config",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Web.config",
-              "RelativeToolTip": "CapaPresentacionAdmin\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-19T05:18:53.858Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T23:11:14.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-08T22:21:44.25Z",
               "EditorCaption": ""

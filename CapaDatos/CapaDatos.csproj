@@ -43,6 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConexionBD.cs" />
+    <Compile Include="Modelos\Paginas.cs" />
+    <Compile Include="Modelos\Permisos.cs" />
+    <Compile Include="Modelos\Roles.cs" />
+    <Compile Include="Modelos\Usuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
