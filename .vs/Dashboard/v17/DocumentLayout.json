@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D9F5E2-BA64-4418-9958-3F25F2B89FF5}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Sistema-Gestion\\sistema-gestion\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T22:21:44.25Z",
-              "EditorCaption": ""
             }
           ]
         }

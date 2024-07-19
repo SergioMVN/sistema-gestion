@@ -5,14 +5,14 @@ using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDatos.Modelos
+namespace CapaEntidad
 {
-//    CREATE TABLE Roles(
-//    id INT IDENTITY(1,1) PRIMARY KEY,
-//    nombre_rol VARCHAR(100) NOT NULL,
-//    fecha_creacion DATETIME DEFAULT GETDATE(),
-//    activo BIT DEFAULT 1
-//);
+    //    CREATE TABLE Roles(
+    //    id INT IDENTITY(1,1) PRIMARY KEY,
+    //    nombre_rol VARCHAR(100) NOT NULL,
+    //    fecha_creacion DATETIME DEFAULT GETDATE(),
+    //    activo BIT DEFAULT 1
+    //);
 
     public class Roles
     {

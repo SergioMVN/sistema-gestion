@@ -1,22 +1,23 @@
-﻿using System;
+﻿using CapaEntidad;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaDatos.Modelos
+namespace CapaEntidad
 {
-//    CREATE TABLE Usuarios(
-//    id INT IDENTITY(1,1) PRIMARY KEY,
-//    nombre VARCHAR(100) NOT NULL,
-//    email VARCHAR(100) NOT NULL UNIQUE,
-//    password VARCHAR(100) NOT NULL,
-//    fecha_creacion DATETIME DEFAULT GETDATE(),
-//    rol_id INT,
-//    activo BIT DEFAULT 1,
-//    FOREIGN KEY(rol_id) REFERENCES Roles(id)
-//);
+    //    CREATE TABLE Usuarios(
+    //    id INT IDENTITY(1,1) PRIMARY KEY,
+    //    nombre VARCHAR(100) NOT NULL,
+    //    email VARCHAR(100) NOT NULL UNIQUE,
+    //    password VARCHAR(100) NOT NULL,
+    //    fecha_creacion DATETIME DEFAULT GETDATE(),
+    //    rol_id INT,
+    //    activo BIT DEFAULT 1,
+    //    FOREIGN KEY(rol_id) REFERENCES Roles(id)
+    //);
 
     public class Usuarios
     {
