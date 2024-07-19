@@ -29,7 +29,8 @@ namespace CapaPresentacionAdmin
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/Site.css"));
+                 "~/Content/fontawesome/all.min.css",
+                 "~/Content/Site.css"));
         }
     }
 }
