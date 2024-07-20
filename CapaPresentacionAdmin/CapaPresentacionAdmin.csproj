@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MantenedorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -225,10 +226,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\Servicios.cshtml" />
     <Content Include="webfonts\fa-brands-400.svg" />
     <Content Include="webfonts\fa-regular-400.svg" />
     <Content Include="webfonts\fa-solid-900.svg" />
@@ -244,6 +242,11 @@
     <Content Include="webfonts\fa-brands-400.woff" />
     <Content Include="webfonts\fa-brands-400.ttf" />
     <Content Include="webfonts\fa-brands-400.eot" />
+    <Content Include="Views\Home\Usuarios.cshtml" />
+    <Content Include="Views\Mantenedor\Paginas.cshtml" />
+    <Content Include="Views\Mantenedor\Permisos.cshtml" />
+    <Content Include="Views\Mantenedor\Roles.cshtml" />
+    <Content Include="Views\Mantenedor\Usuarios.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

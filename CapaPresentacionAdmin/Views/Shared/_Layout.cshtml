@@ -41,11 +41,11 @@
                 <div class="sb-sidenav-menu">
                     <div class="nav">
                         <div class="sb-sidenav-menu-heading">Resumen</div>
-                        <a class="nav-link" href="index.html">
+                        <a class="nav-link" href="@Url.Action("","Home")">
                             <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                             Dashboard
                         </a>
-                        <a class="nav-link" href="index.html">
+                        <a class="nav-link" href="@Url.Action("Usuarios","Home")">
                             <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                             Usuarios
                         </a>
@@ -93,19 +93,19 @@
                             </nav>
                         </div>
                         <div class="sb-sidenav-menu-heading">Administrador</div>
-                        <a class="nav-link" href="charts.html">
+                        <a class="nav-link" href="@Url.Action("Paginas","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class=" fas fa-file" aria-hidden="true"></i></div>
                             Paginas
                         </a>
-                        <a class="nav-link" href="tables.html">
+                        <a class="nav-link" href="@Url.Action("Permisos","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-check"></i></div>
                             Permisos
                         </a>
-                        <a class="nav-link" href="tables.html">
+                        <a class="nav-link" href="@Url.Action("Roles","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-address-card"></i></div>
                             Roles
                         </a>
-                        <a class="nav-link" href="tables.html">
+                        <a class="nav-link" href="@Url.Action("Usuarios","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                             Usuarios
                         </a>

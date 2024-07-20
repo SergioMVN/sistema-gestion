@@ -6,13 +6,23 @@ using System.Web.Mvc;
 
 namespace CapaPresentacionAdmin.Controllers
 {
-    public class HomeController : Controller
+    public class MantenedorController : Controller
     {
-        public ActionResult Index()
+        // GET: Mantenedor
+        public ActionResult Paginas()
         {
             return View();
         }
 
+        public ActionResult Permisos()
+        {
+            return View();
+        }
+
+        public ActionResult Roles()
+        {
+            return View();
+        }
 
         public ActionResult Usuarios()
         {
@@ -20,6 +30,4 @@ namespace CapaPresentacionAdmin.Controllers
         }
 
     }
-
-
 }
